@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://YOUR-GITHUB-USERNAME.github.io/aus-tax-estimator",
+  "homepage": "https://github.com/DarrylNeo/aus-tax-estimator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
